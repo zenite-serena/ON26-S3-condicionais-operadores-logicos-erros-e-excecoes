@@ -1,4 +1,4 @@
-#Exercícios de Estrutura de Decisão #11-20
+#Exercícios de Estrutura de Decisão #11-12
 
 #As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores 
 # e lhe contrataram para desenvolver o programa que calculará os reajustes.
@@ -60,7 +60,7 @@ print("resultando no valor final de", str(salario_final))
 
 print("Fim do programa 11")
 
-# Faça um programa para o cálculo de uma folha de pagamento, 
+# 12. Faça um programa para o cálculo de uma folha de pagamento, 
 # sabendo que os descontos são do Imposto de Renda, 
 # que depende do salário bruto (conforme tabela abaixo) 
 # e 10% para o INSS 
